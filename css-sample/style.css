@@ -1,0 +1,15 @@
+.area {
+    width: 60%;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fffacd;
+}
+
+.title {
+    font-size: 18px;
+}
+
+.description {
+    font-weight: bold;
+    color: red;
+}
